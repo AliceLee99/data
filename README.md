@@ -2,5 +2,5 @@
 
 ```bash
   git config --global user.email "lethinhattinh@gmail.com"
-  git config --global user.name "AliceLee"
+  git config --global user.name "TinhLee"
 ```
